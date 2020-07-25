@@ -10,10 +10,11 @@ tensorboardX
 
 2. Experimental results on the public datasets:  
 SOTS outdoor test results:  
-
+链接：https://pan.baidu.com/s/1H6__hOhhG1C9clJqEx_lFg   提取码：hybe  
 Test-A test results:  
+链接：https://pan.baidu.com/s/1nf_CcSlHLfEoMD-SwkA4VQ   提取码：fat8  
+More real image dehazed results:   
 
-More real image dehazed results:  
 
 
 
