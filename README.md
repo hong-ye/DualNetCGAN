@@ -14,7 +14,7 @@ SOTS outdoor test results:
 Test-A test results:  
 链接：https://pan.baidu.com/s/1nf_CcSlHLfEoMD-SwkA4VQ   提取码：fat8  
 More real image dehazed results:   
-
+链接：https://pan.baidu.com/s/1xFEH1EkQxiuqE9Cto-UXkQ   提取码：nnbn  
 
 
 
